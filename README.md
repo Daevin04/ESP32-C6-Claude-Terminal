@@ -28,10 +28,6 @@ An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** 
 ## Repository Structure
 
 ```
-
-<img width="495" height="580" alt="IMG_0266" src="https://github.com/user-attachments/assets/f767f30c-a7c0-4a76-894e-952d0d82bb28" />
-
-
 ESP32-C6-Claude-Terminal/
 ├── SerialTerminal_ESP32C6/          # Main ESP32-C6 Arduino sketch
 │   ├── SerialTerminal_ESP32C6.ino   # Primary sketch file
