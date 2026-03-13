@@ -1,6 +1,7 @@
 # ESP32-C6 Claude Terminal
 
 An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** with a **Raspberry Pi 5 vision server** powered by the Claude API. Point the Pi camera at any question or text, press a button on the ESP32, and receive an AI-generated answer displayed directly on the ESP32's screen.
+
 <img width="495" height="580" alt="IMG_0266" src="https://github.com/user-attachments/assets/6c5f85ea-ceb6-4e49-b5b5-c70c0d7a6f79" />
 
 ---
