@@ -16,8 +16,6 @@ An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** 
 │  3× Hardware Buttons        │        │  Image → Q&A Pipeline        │
 └─────────────────────────────┘        └──────────────────────────────┘
 
-![IMG_0264](https://github.com/user-attachments/assets/b0c6102e-19ed-42ff-9130-f95c3e17a7f3)
-
 **Workflow:**
 1. Double-click the DOWN button on ESP32-C6 → sends `ImageUpload` over serial
 2. Pi 5 receives command → captures image with camera
@@ -30,6 +28,10 @@ An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** 
 ## Repository Structure
 
 ```
+![IMG_0266](https://github.com/user-attachments/assets/1e113b5e-16ad-47ba-ba9f-2a7359cf5aae)
+![IMG_0264](https://github.com/user-attachments/assets/7ed380c4-51e4-4f27-aa73-e6a03e9fb2c3)
+
+
 ESP32-C6-Claude-Terminal/
 ├── SerialTerminal_ESP32C6/          # Main ESP32-C6 Arduino sketch
 │   ├── SerialTerminal_ESP32C6.ino   # Primary sketch file
