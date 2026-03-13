@@ -28,9 +28,8 @@ An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** 
 ## Repository Structure
 
 ```
-![IMG_0262](https://github.com/user-attachments/assets/58fe3f9b-5938-485d-b027-9f65d5684a72)
-![IMG_0266](https://github.com/user-attachments/assets/1e113b5e-16ad-47ba-ba9f-2a7359cf5aae)
-![IMG_0264](https://github.com/user-attachments/assets/7ed380c4-51e4-4f27-aa73-e6a03e9fb2c3)
+
+<img width="495" height="580" alt="IMG_0266" src="https://github.com/user-attachments/assets/f767f30c-a7c0-4a76-894e-952d0d82bb28" />
 
 
 ESP32-C6-Claude-Terminal/
