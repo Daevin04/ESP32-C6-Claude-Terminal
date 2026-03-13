@@ -15,6 +15,7 @@ An embedded AI assistant system that pairs an **ESP32-C6 touchscreen terminal** 
 │  LVGL Scrollable Terminal   │ Serial │  Claude Vision API           │
 │  3× Hardware Buttons        │        │  Image → Q&A Pipeline        │
 └─────────────────────────────┘        └──────────────────────────────┘
+```
 
 **Workflow:**
 1. Double-click the DOWN button on ESP32-C6 → sends `ImageUpload` over serial
