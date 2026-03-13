@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.env
+
+# Theia IDE
+.theia/
+
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Libraries (install via Arduino Library Manager)
+libraries/
